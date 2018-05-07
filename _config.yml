@@ -1,0 +1,10 @@
+remote_theme: pages-themes/cayman
+#theme: jekyll-theme-cayman
+
+github:
+  zip_url: https://github.com/iBug/gh-pages-test/archive/master.zip
+  tar_url: https://github.com/iBug/gh-pages-test/archive/master.tar.gz
+
+# The following contents are NOT relevant to the issue
+title: GitHub Pages test
+description: An MCVE to reproduce a suspected issue on GitHub Pages
